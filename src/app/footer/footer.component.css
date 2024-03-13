@@ -1,0 +1,18 @@
+i{
+color: white;
+padding: 10px;
+border: 1px solid white;
+border-radius:50px;
+margin: 6px;
+}
+
+
+.container-fluid{
+    background-color: #2C3E50;
+}
+
+
+.copryit{
+background-color: #1A252F;
+height: 100px;
+}

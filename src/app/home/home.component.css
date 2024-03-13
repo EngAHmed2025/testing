@@ -1,0 +1,9 @@
+.background{
+background-image:linear-gradient(rgba(26, 188, 156) ,rgba(26, 188, 156));
+background-size: cover;
+height: 80vh;
+}
+
+img{
+width:100%;
+}

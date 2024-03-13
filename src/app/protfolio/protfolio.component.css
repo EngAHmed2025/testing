@@ -1,0 +1,32 @@
+.layer-border img{
+    width:100%;
+    border-radius: 20px;
+}
+
+
+
+.layer-border{
+    position: relative;
+    /* display: inline-block; */
+  }
+
+
+.layer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:#2DB394; 
+    color: white; 
+    opacity: 0; 
+    transition: all 0.5s ease-in-out; 
+    border-radius: 15px;
+   
+}
+
+.layer-border:hover .layer{
+    opacity: 1;
+    border-radius: 15px;
+}
+

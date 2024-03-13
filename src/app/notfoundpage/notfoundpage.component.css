@@ -1,0 +1,7 @@
+.background{
+background-image: url("src/assets/istockphoto-860463522-612x612.jpg");
+height: 100vh;
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+}
